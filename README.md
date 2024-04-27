@@ -36,7 +36,14 @@ Analysing edge detection, sharpening, and noise reduction and Effects of changin
 **What we expect:** The goal of noise reduction is to smoothen the image while preserving important details and structures. We expect that after noise reduction, the image will have a cleaner appearance with reduced graininess or speckles.
 
 **Original Image**
+
+<img width="640" alt="Screenshot 2024-04-27 at 7 05 03 PM" src="https://github.com/Ananya0104/Image-Enhancement-and-Analysis-using-CNN/assets/120671151/c5f1a702-9a41-4276-8e13-bf4c6f80f8a8">
+
+
 **After Noise Reduction**
+
+<img width="665" alt="Screenshot 2024-04-27 at 7 03 42 PM" src="https://github.com/Ananya0104/Image-Enhancement-and-Analysis-using-CNN/assets/120671151/76b58106-510e-4798-a2a4-3429a60194de">
+
 
 **Effects of Changing Strides on Images:**
 
