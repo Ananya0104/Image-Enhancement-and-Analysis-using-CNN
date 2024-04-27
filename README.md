@@ -3,9 +3,9 @@ Analysing edge detection, sharpening, and noise reduction and Effects of changin
 
 **Edge Detection:**
 
-**Why we use it:** Edge detection is a fundamental image processing technique used to identify boundaries within an image. It's crucial for tasks like object detection, image segmentation, and feature extraction.
+**Objective:** Edge detection is a fundamental image processing technique used to identify boundaries within an image. It's crucial for tasks like object detection, image segmentation, and feature extraction.
 
-**Objective:** By performing edge detection, we anticipate to highlight significant transitions in intensity, which correspond to edges or boundaries in the image. The result should be a binary image or a map indicating the presence of edges
+**Effect:** By performing edge detection, we anticipate to highlight significant transitions in intensity, which correspond to edges or boundaries in the image. The result should be a binary image or a map indicating the presence of edges
 
 **Original Image**
 
@@ -17,9 +17,9 @@ Analysing edge detection, sharpening, and noise reduction and Effects of changin
 
 **Sharpening:**
 
-**Why we use it:** Sharpening enhances the edges and details in an image, making it appear clearer and more defined. It's often used to improve the visual quality of images.
+**Objective:** Sharpening enhances the edges and details in an image, making it appear clearer and more defined. It's often used to improve the visual quality of images.
 
-**Objective:** When we apply sharpening, we anticipate that edges and details in the image will become more pronounced. The result should be an image with enhanced contrast along edges and finer details.
+**Effect:** When we apply sharpening, we anticipate that edges and details in the image will become more pronounced. The result should be an image with enhanced contrast along edges and finer details.
 
 **Original Image**
 
@@ -31,9 +31,9 @@ Analysing edge detection, sharpening, and noise reduction and Effects of changin
 
 **Noise Reduction:**
 
-**Why we use it:** Noise reduction is employed to remove or reduce unwanted artifacts or distortions in an image caused by various sources such as sensor noise, compression, or environmental factors.
+**Objective:** Noise reduction is employed to remove or reduce unwanted artifacts or distortions in an image caused by various sources such as sensor noise, compression, or environmental factors.
 
-**Objective:** The goal of noise reduction is to smoothen the image while preserving important details and structures. We expect that after noise reduction, the image will have a cleaner appearance with reduced graininess or speckles.
+**Effect:** The goal of noise reduction is to smoothen the image while preserving important details and structures. We expect that after noise reduction, the image will have a cleaner appearance with reduced graininess or speckles.
 
 **Original Image**
 
@@ -47,9 +47,9 @@ Analysing edge detection, sharpening, and noise reduction and Effects of changin
 
 **Effects of Changing Strides on Images:**
 
-**Why we use it:** Changing the stride during image processing operations like convolution or pooling alters the sampling rate and affects the spatial dimensions of the output.
+**Objective:** Changing the stride during image processing operations like convolution or pooling alters the sampling rate and affects the spatial dimensions of the output.
 
-**Objective:** Altering the stride can lead to changes in the properties and appearance of the resulting image. For example, increasing the stride may reduce the spatial resolution and processing time but can also lead to loss of information. Decreasing the stride may enhance spatial resolution but may require more computational resources.
+**Effect:** Altering the stride can lead to changes in the properties and appearance of the resulting image. For example, increasing the stride may reduce the spatial resolution and processing time but can also lead to loss of information. Decreasing the stride may enhance spatial resolution but may require more computational resources.
 
 **Original Image**
 
